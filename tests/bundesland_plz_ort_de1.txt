@@ -1,0 +1,10 @@
+Baden-Wuerttemberg	64754	Eberbach (Baden)
+Baden-Wuerttemberg	68159	Jungbusch
+Baden-Wuerttemberg	68159	Mannheim, Universitaetsstadt
+Baden-Wuerttemberg	68161	Schwetzingerstadt
+Baden-Wuerttemberg	68161	Mannheim, Universitaetsstadt
+Baden-Wuerttemberg	68161	Oststadt
+Baden-Wuerttemberg	68163	Neuostheim
+Baden-Wuerttemberg	68163	Lindenhof
+Baden-Wuerttemberg	68163	Mannheim, Universitaetsstadt
+Baden-Wuerttemberg	68163	Neuhermsheim

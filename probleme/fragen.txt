@@ -1,0 +1,20 @@
+Wo vector definieren?
+find() immer true - warum?
+Verbinde der Klasse mit dem Vector - wofür ist die Klasse da?
+
+
+Plan:
+
+gemeinsamen vector aus textinit 1 & 2 erschaffen?
+    oder lieber einzeln?
+        -evtl bessere Suchfunktion
+         "Wollen sie Bundesland + Stadt, oder Koordinaten?
+            je nach antwort verschiedene vektoren durchsuchen?
+
+Auch möglich wäre Split aus Vector von textinit 1 und gemeinsamen Vector (Aufgabenunterteilung)
+
+Delimiter auf "\t"
+mit substr funktion um Postleitzahl bei Suche nicht mit auszugeben
+
+
+ 
