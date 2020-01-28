@@ -1,0 +1,42 @@
+  /*
+    ifstream file("./bundesland_plz_ort_de.txt");
+    string input;
+    Location location;
+    vector <string> splitoutput;
+    vector <Location> locationCollection;
+    vector <string> splitted;
+    int i;
+    while (getline(file,input)) {
+        splitoutput = split(input);
+        location.setState(splitoutput[0]);
+        location.setPostcode(splitoutput[1]);
+        location.setCity(splitoutput[2]);
+    }    
+    locationCollection.push_back(location);
+    return locationCollection;
+}
+*/
+
+
+vector <string> split(string input) {
+    size_t pos = 0;
+    string token;
+    string delimiter = "\t";
+    int i;
+    vector <string> data;
+    while ((pos = input.find(delimiter)) != string::npos) {
+        token = input.substr(0, pos);
+        cout << token << endl;
+
+        // data.push_back(token);
+        input.erase(0, pos + delimiter.length());
+    } 
+    //cout << input << endl;
+    
+    data.push_back(input);
+    for (i=0;i<data.size();i++) {
+        cout << data[1] <<"\n";
+    }
+    return data;
+}
+*/
